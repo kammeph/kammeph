@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a full time Software Developer. During my work, I am developing a web application that aims to digitize the wood industry. In my free time I try to get into some other programming languages, frameworks and tools like Go, React and Firebase.
+I am a full time Software Developer. During my work, I am developing a web application that aims to digitize the timber industry. In my free time I try to get into some other programming languages, frameworks and tools like Go, React and Firebase.
 
 * 🌍  I'm based in Germany, MV
 * 🚀  I'm currently working on [School Book Storage](http://hale-monument-367417.web.app/login)
