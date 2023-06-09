@@ -44,6 +44,6 @@ I am a full time Software Developer. During my work, I am developing a web appli
 
 <div width="100%" align="center"><a href="https://github.com/kammeph/progress-next" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kammeph&repo=progress-next&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kammeph/school" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kammeph&repo=school&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/kammeph/school-book-storage-service" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kammeph&repo=school-book-storage-service&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kammeph/school-book-storage-service-simplified" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kammeph&repo=school-book-storage-service-simplified&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
